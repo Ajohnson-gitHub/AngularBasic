@@ -1,0 +1,2 @@
+1-create a restaurant mini app simple nothing crazy just to see how component interact with each other internally.
+how .component.html and .component.ts interact and share information using data binding.
